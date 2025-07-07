@@ -73,7 +73,7 @@ Sample Output:
 | Neural Network    | `X.XX`         |
 | Linear Regression | `Y.YY`         |
 
-![MSE Comparison](plots/mse_comparison.png)
+![MSE Comparison](mse_comparison.png)
 
 ---
 
@@ -123,4 +123,4 @@ This project is for educational purposes. You are free to fork, modify, and shar
 
 **Ahmed Frahat**
 
-Connect on [LinkedIn](https://www.linkedin.com) | Explore more on [GitHub](https://github.com)
+Connect on [LinkedIn](www.linkedin.com/in/ahmed-farahat-104077286) | Explore more on [GitHub]([https://github.com](https://github.com/ahmedfarahat990))
